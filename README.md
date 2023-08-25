@@ -1,4 +1,11 @@
+# Halo I'm Tymek
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tymster&show_icons=true&theme=onedark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymster&theme=onedark"/>
+# Stuff i can do
+- Javascript
+- Node js
+- Python
+- Rust
+- React
+- Tailwind
+- Mongodb
+- Mysql
