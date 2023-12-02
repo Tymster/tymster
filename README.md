@@ -4,7 +4,7 @@
 <h2> Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cs,express,firebase,go,html,js,ts,nodejs,html,css,linux,mongodb,mysql,react,regex,rust,tailwind,vite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cs,go,firebase,html,js,ts,nodejs,express,css,linux,mongodb,mysql,postgres,react,rust,tailwind,vite&perline=9" />
   </a>
 </p>
 <h2> Projects</h2>
