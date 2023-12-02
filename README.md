@@ -1,5 +1,4 @@
 <h1 align="center"> Hi I'm Tymek </h1>
-<hr/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymeklew&layout=compact&theme=dark"/>
 <h2> Skills </h2>
 <p align="center">
