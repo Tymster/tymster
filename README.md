@@ -1,5 +1,6 @@
 <h1 align="center"> Hi I'm Tymek </h1>
 <div align="center">
+  <img src="https://site-assets.fontawesome.com/releases/v6.5.1/svgs/solid/dumbbell.svg" width="80" height="80" />
 </div>
 <h2> Skills </h2>
 <p align="center">
