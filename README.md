@@ -1,4 +1,7 @@
 <h1 align="center"> Hi I'm Tymek </h1>
+<div align="center">
+  <img src="https://icons.veryicon.com/png/o/business/a-set-of-commercial-icons/gym-fitness.png"/>
+</div>
 <h2> Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
