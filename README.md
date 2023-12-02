@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I'm Tymek </h1>
-<div align="center" width="1" height="1">
-  <img src="https://icons.veryicon.com/png/o/business/a-set-of-commercial-icons/gym-fitness.png"/>
+<div align="center">
+  <img src="https://icons.veryicon.com/png/o/business/a-set-of-commercial-icons/gym-fitness.png" width="1" height="1"/>
 </div>
 <h2> Skills </h2>
 <p align="center">
