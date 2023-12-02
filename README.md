@@ -1,9 +1,8 @@
 <h1 align="center"> Hi I'm Tymek </h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymeklew&layout=compact&theme=dark"/>
 <h2> Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,cs,express,firebase,go,html,js,ts,node,html,css,linux,mongodb,mysql,pyreact,regex,rust,tailwind,vite" />
   </a>
 </p>
 <h2> Projects</h2>
